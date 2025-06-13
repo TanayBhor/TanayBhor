@@ -1,3 +1,5 @@
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanaybhor&show_icons=true&locale=en&layout=compact" alt="tanaybhor" /></p>
+
 <h1 align="center">Hi 👋, I'm Tanay Bhor</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
