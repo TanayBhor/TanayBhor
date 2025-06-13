@@ -1,4 +1,4 @@
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanaybhor&show_icons=true&locale=en&layout=compact" alt="tanaybhor" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanaybhor&label=Profile%20views&color=0e75b6&style=flat" alt="tanaybhor" /> </p>
 
 <h1 align="center">Hi 👋, I'm Tanay Bhor</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
